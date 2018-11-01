@@ -1,0 +1,28 @@
+#start_button:checked {
+    background:  #BEBEBE;
+}
+
+#hidelogview_button {
+    background: #f44336;
+    color: white;
+}
+
+#points_entry {
+    font-size:  200%;
+    color:  rgba (0,0,0,0.0);
+}
+
+#message_log {
+    color: #FF0000;
+}
+
+#resetstddata_button {
+    background: #00BFFF;
+}
+
+#swap_button {
+    background: -gtk-gradient (linear, 
+                               left top, right top, 
+                               from(#00BFFF),to(#FFFFFF));
+}
+
